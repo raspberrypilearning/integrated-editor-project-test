@@ -13,8 +13,8 @@ Have a look at the code on the right. We're going to make an addition.
 language: python
 filename: main.py
 line_numbers: true
-line_number_start:1
-line_highlights:3
+line_number_start: 1
+line_highlights: 3
 ---
 print('Hello Di')
 
