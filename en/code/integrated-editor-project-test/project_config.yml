@@ -1,0 +1,4 @@
+name: "Integrated editor project test"
+identifier: "integrated-editor-project-test"
+type: 'python'
+build: true

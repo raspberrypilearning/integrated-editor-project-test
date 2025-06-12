@@ -1,11 +1,11 @@
-title: default-project-template
+title: Integrated editor project test
 hero_image: images/banner.png
-description: default-project-template description
+description: a test to create an editor project
 version: 1
 listed: false
 copyedit: false
 last_tested: "2025-01-01"
 steps:
-  - title: What you will make
-  - title: Step title
-  - title: What can you do now?
+  - title: First step title
+  - title: Second step title
+

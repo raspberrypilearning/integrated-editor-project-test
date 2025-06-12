@@ -1,42 +1,33 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Here is where the step title goes</h2>
+--- task ---
+Just some intro text to say what is going to be done
+--- /task ---
 
-A brief description - one or two sentences. 
+<h2 class="c-project-heading--explainer">SUBHEADING</h2>
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+Have a look at the code on the right. We're going to make an addition.
 
---- no-print ---
+<div class="c-project-code">
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start:1
+line_highlights:3
+---
+print('Hello Di')
 
-Editor embed 
-
---- /no-print ---
-
---- no-print ---
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+answer = input('How are you?')
 </div>
 
---- /no-print ---
+<div class="c-project-callout c-project-callout--tip">
+### Tip
+- Make sure you write `answer = input`
+</div>
 
-### You will need:
-- a
-- b
-- c
+<div class="c-project-callout c-project-callout--debug">
+### Debugging
+- How you can mess this up is beyond me.
+- Just type the bloody code
+</div>
