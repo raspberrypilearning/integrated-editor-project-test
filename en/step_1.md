@@ -19,6 +19,7 @@ line_highlights:3
 print('Hello Di')
 
 answer = input('How are you?')
+--- /code ---
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
