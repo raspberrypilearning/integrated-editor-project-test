@@ -17,6 +17,7 @@ line_number_start:
 line_highlights:
 ---
 CODE
+--- /code ---
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
